@@ -1,0 +1,48 @@
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.csproj.AssemblyReference.cache
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.addproduct.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.bill.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.client.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.Form1.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.orders.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.products.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.csproj.GenerateResource.cache
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.AssemblyInfoInputs.cache
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.AssemblyInfo.cs
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.csproj.CoreCompileInputs.cache
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.sourcelink.json
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\prilog indiv.exe
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\prilog indiv.deps.json
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\prilog indiv.runtimeconfig.json
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\prilog indiv.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\prilog indiv.pdb
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Npgsql.dll
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog i.3503E092.Up2Date
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.dll
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\refint\prilog indiv.dll
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.pdb
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog indiv.genruntimeconfig.cache
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\ref\prilog indiv.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.addclient.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.addorder.resources
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.addbill.resources
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\EPPlus.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\repos\C#\prilog indiv\prilog indiv\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\repos\C#\prilog indiv\prilog indiv\obj\Debug\net8.0-windows\prilog_indiv.updateproduct.resources
